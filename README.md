@@ -33,17 +33,17 @@ I'm an EVM Security Researcher and Auditor, focusing on **Solidity**, **Foundry*
 Interested in collaborating on EVM/DeFi security or have a project in mind? Let's connect to build a more secure decentralized future.
 
 <p>
-  <a href="https://discordapp.com/users/evmlionel" target="_blank" style="text-decoration: none;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-evmlionel-7289DA?logo=discord&logoColor=white" border="0">
+  <a href="https://discordapp.com/users/evmlionel" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-evmlionel-7289DA?logo=discord&logoColor=white">
   </a>
-  <a href="https://t.me/evmlionel" target="_blank" style="text-decoration: none;">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-evmlionel-2CA5E0?logo=telegram&logoColor=white" border="0">
+  <a href="https://t.me/evmlionel" target="_blank" rel="noopener noreferrer">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-evmlionel-2CA5E0?logo=telegram&logoColor=white">
   </a>
-  <a href="https://twitter.com/evmlionel" target="_blank" style="text-decoration: none;">
-    <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-@evmlionel-000000?logo=x&logoColor=white" border="0">
+  <a href="https://twitter.com/evmlionel" target="_blank" rel="noopener noreferrer">
+    <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-@evmlionel-000000?logo=x&logoColor=white">
   </a>
-  <a href="https://github.com/evmlionel" target="_blank" style="text-decoration: none;">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-evmlionel-181717?logo=github&logoColor=white" border="0">
+  <a href="https://github.com/evmlionel" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-evmlionel-181717?logo=github&logoColor=white">
   </a>
 </p>
 
