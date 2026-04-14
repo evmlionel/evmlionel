@@ -1,7 +1,7 @@
 # Hi, I'm Lionel 👋
 
-I build with AI and agents, mostly across products, developer tools, and automation.
+I build with agents.
 
-**Contact:** liowald everywhere
+**Contact:** evmlionel everywhere
 
-**Discord:** liowald • **Telegram:** @liowald • **X:** @liowald
+**Discord:** evmlionel • **Telegram:** @evmlionel • **X:** @evmlionel
